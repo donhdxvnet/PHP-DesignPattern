@@ -1,0 +1,5 @@
+API
+STRUCTURAL
+
+Facade : 1 class <-> ALL business logic
+Adapter : 1 class <-> 1 business logic

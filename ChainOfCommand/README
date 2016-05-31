@@ -1,1 +1,2 @@
-Request processing chain
+Request -> Object stack (Linked-list / TOKEN RING)
+BEHAVIORAL
